@@ -1,4 +1,4 @@
-Sign-up session:
+Sign-up section:
 Add text "HELLO!"
 Add text "PLEASE SIGN UP"
 Add text "First name"
@@ -15,7 +15,7 @@ Add the button "Sign Up", to move the customer to the home page
 Add text "Have an account?"
 Add the button "Sign In", to move the customer to the Sign In page
 
-Sign-in session:
+Sign-in section:
 Add text "WELCOME BACK"
 Add text "E-mail"
 Add a field to allow the customer to write his email inside it
@@ -25,15 +25,20 @@ Add the button "Sign In", to move the customer to the home page
 Add text "Don't have an account?"
 Add the button "Sign Up", to move the customer to the Sign Up page
 
-Home session:
+Notifications section:
+Add a box with the text "Allow the app to send notifications" inside it
+Add an “Allow” button.
+Add a “Decline” button
+
+Home section:
 
 
-User Profiles session:
+User Profiles section:
 Allowing the user to add or change the display image
 Allowing the user to add or change the user name
 Allowing the user to change the email and password
 
-Payment session:
+Payment section:
 Add text "Apple Pay"
 Add an image "Apple Pay logo image"
 Add a button that takes you to the Apple Pay payment area
