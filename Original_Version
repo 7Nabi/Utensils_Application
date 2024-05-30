@@ -10,7 +10,8 @@ Add a field to allow the customer to write his email inside it
 Add text "Password"
 Add a field to enable the customer to write his password inside it
 Add text "Confirm Password"
-Add a field to allow the customer to write his confirm password inside it
+Add a field to allow the customer to confirm the password inside it
+Add button "Sign
 
 Sign-in session:
 
