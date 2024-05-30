@@ -28,6 +28,11 @@ Add the button "Sign Up", to move the customer to the Sign Up page
 Home session:
 
 
+User Profiles session:
+Allowing the user to add or change the display image
+Allowing the user to add or change the user name
+Allowing the user to change the email and password
+
 Payment session:
 Add text "Apple Pay"
 Add an image "Apple Pay logo image"
